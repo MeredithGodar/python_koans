@@ -1,15 +1,17 @@
 # python_koans
 
-[Python Koans](http://github.com/gregmalcolm/python_koans).  See the [README](https://github.com/MeredithGodar/python_koans/blob/master/README.rst) from the koans for more info.  
+[Python Koans](http://github.com/gregmalcolm/python_koans).  See the [README](https://github.com/MeredithGodar/python_koans/blob/master/README.rst) from the forked koans for more info.  
 
 ### To run the koans:
 
-```
-[python3] $ python3 contemplate_koans.py
+##### Python 2:
+```shell
+$ python contemplate_koans.py
 ```
 
-```
-[python2] $ python contemplate_koans.py
+##### Python 3:
+```shell
+$ python3 contemplate_koans.py
 ```
 
 ### Requires:
